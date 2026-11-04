@@ -46,7 +46,7 @@ export default function Home() {
       {/* Services */}
       <main id="services" className="max-w-6xl mx-auto px-6 py-16">
         <h2 className="text-3xl font-bold text-center text-green-800 mb-12">
-        GreenTech Solutions
+        GreenTech Solution
         </h2>
 
         <div className="grid gap-8 sm:grid-cols-3">
