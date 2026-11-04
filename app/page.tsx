@@ -20,7 +20,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-20 flex flex-col items-center text-center">
        
           <h1 className="text-4xl sm:text-6xl font-bold text-green-800">
-            Powering a Sustainable Future
+            Powering Sustainable Future
           </h1>
           <p className="mt-4 text-lg sm:text-xl max-w-2xl text-gray-700">
             We build renewable energy and smart efficiency solutions that cut emissions and costs—without compromising performance.
